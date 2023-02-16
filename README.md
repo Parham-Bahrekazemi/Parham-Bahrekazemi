@@ -3,7 +3,8 @@
 
 Mobile and Flutter Developer
 -----------------------------
-* 👀 I’m interested in programming and learning.
+* 👀 I am a Software Engineer.
+* 🌱 I’m currently learning Flutter.
 * 🤝 I'm open to collaborating on interesting projects as a mobile developer
                   
 ### Skills
