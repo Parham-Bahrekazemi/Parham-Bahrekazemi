@@ -6,6 +6,9 @@ Mobile and Flutter Developer
 * 👀 I am a Software Engineer.
 * 🌱 I’m currently learning Flutter.
 * 🤝 I'm open to collaborating on interesting projects as a mobile developer
+
+![giphy](https://user-images.githubusercontent.com/125268240/220090828-606cdf5e-5b4e-42a6-8063-2f79067549fb.gif)
+
                   
 ### Skills
 <p align="left">
